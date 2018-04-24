@@ -1,0 +1,16 @@
+1 Even
+2 Odd
+3 Even
+4 Odd
+5 Even
+6 Odd
+7 Even
+8 Odd
+9 Even
+10 Odd
+11 Even
+12 Odd
+13 Even
+14 Odd
+15 Even
+16 Odd

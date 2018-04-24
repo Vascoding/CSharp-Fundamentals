@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortPersonByNameAndAge", "SortPersonByNameAndAge\SortPersonByNameAndAge.csproj", "{96A7C362-6C16-4FD2-A099-469928F570E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassBox", "ClassBox\ClassBox.csproj", "{BD0E39CA-DE8F-4695-BA82-B481F769AAD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalFarm", "AnimalFarm\AnimalFarm.csproj", "{B88C0976-05C1-48E7-BF93-19A838B20E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingSpree", "ShoppingSpree\ShoppingSpree.csproj", "{F332BB6C-EE1B-4227-9958-DB6C8B03F45B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaCalories", "PizzaCalories\PizzaCalories.csproj", "{135AE08F-8EDC-4FDA-A1C7-CD6E9EA4C610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballTeamGenerator", "FootballTeamGenerator\FootballTeamGenerator.csproj", "{2481E8A8-E9F0-4E77-8954-C42DCE7EE744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingSpree.Test", "ShoppingSpree.Test\ShoppingSpree.Test.csproj", "{CF5B2788-646D-4DD4-99BC-7E72187C5523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A7C362-6C16-4FD2-A099-469928F570E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A7C362-6C16-4FD2-A099-469928F570E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A7C362-6C16-4FD2-A099-469928F570E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A7C362-6C16-4FD2-A099-469928F570E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0E39CA-DE8F-4695-BA82-B481F769AAD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0E39CA-DE8F-4695-BA82-B481F769AAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0E39CA-DE8F-4695-BA82-B481F769AAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0E39CA-DE8F-4695-BA82-B481F769AAD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B88C0976-05C1-48E7-BF93-19A838B20E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88C0976-05C1-48E7-BF93-19A838B20E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88C0976-05C1-48E7-BF93-19A838B20E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88C0976-05C1-48E7-BF93-19A838B20E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F332BB6C-EE1B-4227-9958-DB6C8B03F45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F332BB6C-EE1B-4227-9958-DB6C8B03F45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F332BB6C-EE1B-4227-9958-DB6C8B03F45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F332BB6C-EE1B-4227-9958-DB6C8B03F45B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135AE08F-8EDC-4FDA-A1C7-CD6E9EA4C610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135AE08F-8EDC-4FDA-A1C7-CD6E9EA4C610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135AE08F-8EDC-4FDA-A1C7-CD6E9EA4C610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135AE08F-8EDC-4FDA-A1C7-CD6E9EA4C610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2481E8A8-E9F0-4E77-8954-C42DCE7EE744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2481E8A8-E9F0-4E77-8954-C42DCE7EE744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2481E8A8-E9F0-4E77-8954-C42DCE7EE744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2481E8A8-E9F0-4E77-8954-C42DCE7EE744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF5B2788-646D-4DD4-99BC-7E72187C5523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5B2788-646D-4DD4-99BC-7E72187C5523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5B2788-646D-4DD4-99BC-7E72187C5523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5B2788-646D-4DD4-99BC-7E72187C5523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72D82BC1-0062-466A-82A5-11C637E1985C}
+	EndGlobalSection
+EndGlobal
